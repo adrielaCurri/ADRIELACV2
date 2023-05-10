@@ -17,7 +17,7 @@ estoy loco alalallalala
 <div id="capa2"></div>
 <div id="capa3">.</div>
 <div id="capa4">
-  <p><img src="webDIV-copy/adriela circulo.png" alt="" width="130" height="130" id="imagen1"/><strong>Diseñadora Gráfica</strong> </p>
+  <p><img src="webDIV-copy/ adriela circulo.png" alt="" width="130" height="130" id="imagen1"/><strong>Diseñadora Gráfica</strong> </p>
   <p> Estudiante de diseño gráfico, fui admitida en la Universidad centroamericana el año 2022, primer y segundo semestre aprobados, prosiguiendo estudios actualmente en tercer semestre.</p>
 </div>
 <div id="capa5">
@@ -40,7 +40,7 @@ estoy loco alalallalala
   <p>Licenciatura en Diseño Gráfico</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p><img src="Adriela habilidades.png" alt="" width="597" height="259" id="imagen2"/></p>
+  <p><img src="webDIV-copy/ Adriela habilidades.png" alt="" width="597" height="259" id="imagen2"/></p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
