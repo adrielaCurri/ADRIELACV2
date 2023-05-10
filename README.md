@@ -40,7 +40,7 @@ estoy loco alalallalala
   <p>Licenciatura en Diseño Gráfico</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p><img src="webDIV - Copy/ Adriela habilidades.png" alt="" width="597" height="259" id="imagen2"/></p>
+  <p><img src="webDIV - Copy/Adriela habilidades.png" alt="" width="597" height="259" id="imagen2"/></p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
